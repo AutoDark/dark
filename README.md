@@ -3,6 +3,7 @@
 
 ## 版本信息
 AutoDark:![版本](https://img.shields.io/badge/version-v2.1-blue)
+
 AutoLite:![版本](https://img.shields.io/badge/version-v2.0.1.2-blue)
 
 ## 使用方法
@@ -19,8 +20,11 @@ AutoLite:![版本](https://img.shields.io/badge/version-v2.0.1.2-blue)
 
 ## 下载地址
 AutoDark：https://autodark.download.wakamda.cyou/AutoDark/
+
 AutoLite:https://autodark.download.wakamda.cyou/AutoLite/
+
 设置教程：https://autodark.download.wakamda.cyou/jiaocheng/1.mp4
+
 打卡教程：https://autodark.download.wakamda.cyou/jiaocheng/2.mp4
 
 
@@ -33,5 +37,4 @@ AutoLite:https://autodark.download.wakamda.cyou/AutoLite/
 需要打卡环境有网
 
 ## 致谢
-
 本文件基于 [DailyTask](https://github.com/AndroidCoderPeng/DailyTask) 修改，原始版权归原作者所有。
