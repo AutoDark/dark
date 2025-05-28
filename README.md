@@ -11,6 +11,9 @@
 3. 向开发者截图开通权限
 4. 设置好AutoDark，测试是否正常。
 
+## 联系开发者
+qq：848340384
+
 ## 设置过程
 1. 设置邮箱及通知，悬浮窗等权限开启
 2. 打开二维码，使用AutoLite扫描
@@ -22,7 +25,6 @@
 2. AutoLite：https://autodark.download.wakamda.cyou/AutoLite/
 3. 设置教程： https://autodark.download.wakamda.cyou/jiaocheng/1.mp4
 4. 打卡教程： https://autodark.download.wakamda.cyou/jiaocheng/2.mp4
-
 
 ## 优点
 1. 稳定
