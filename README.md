@@ -2,8 +2,8 @@
 本项目采用一部手机控制另一部手机打卡的方式，需要一部备用手机置于公司工位，可实现远程实时打卡。
 
 ## 版本信息
-1. AutoDark:![版本](https://img.shields.io/badge/version-v2.1-blue)
-2. AutoLite:![版本](https://img.shields.io/badge/version-v2.0.1.2-blue)
+1. AutoDark![版本](https://img.shields.io/badge/version-v2.2-blue)
+2. AutoLite![版本](https://img.shields.io/badge/version-v2.1-blue)
 
 ## 使用方法
 1. 工位手机安装AutoDark，个人手机安装AutoLite
@@ -25,14 +25,6 @@ qq：848340384
 2. AutoLite：https://autodark.download.wakamda.cyou/AutoLite/
 3. 设置教程： https://autodark.download.wakamda.cyou/jiaocheng/1.mp4
 4. 打卡教程： https://autodark.download.wakamda.cyou/jiaocheng/2.mp4
-
-## 优点
-1. 稳定
-3. 安全
-
-## 缺点
-1. 需要备用手机
-2. 需要打卡环境有网
 
 ## 致谢
 本文件基于 [DailyTask](https://github.com/AndroidCoderPeng/DailyTask) 修改，原始版权归原作者所有。
