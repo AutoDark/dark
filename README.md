@@ -11,20 +11,24 @@
 3. 向开发者截图开通权限
 4. 设置好AutoDark，测试是否正常。
 
-## 联系开发者
-qq：848340384
-
 ## 设置过程
 1. 设置邮箱及通知，悬浮窗等权限开启
 2. 打开二维码，使用AutoLite扫描
 3. 设置手机屏幕常亮
 4. 连接充电器（否则需要一天一充，根据电量不同设备可能不同）
 
+## 稳定性
+测试手机：红米note8 pro
+测试时长：保持电量的情况下连续3星期无异常
+
 ## 下载地址
 1. AutoDark：https://autodark.download.wakamda.cyou/AutoDark/
 2. AutoLite：https://autodark.download.wakamda.cyou/AutoLite/
 3. 设置教程： https://autodark.download.wakamda.cyou/jiaocheng/1.mp4
 4. 打卡教程： https://autodark.download.wakamda.cyou/jiaocheng/2.mp4
+
+## 联系开发者
+qq：848340384
 
 ## 致谢
 本文件基于 [DailyTask](https://github.com/AndroidCoderPeng/DailyTask) 修改，原始版权归原作者所有。
