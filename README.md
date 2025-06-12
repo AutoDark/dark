@@ -8,8 +8,8 @@
 ## 使用方法
 1. 工位手机安装AutoDark，个人手机安装AutoLite
 2. 使用个人手机进行扫码绑定
-3. 向开发者截图开通权限
-4. 设置好AutoDark，测试是否正常。
+3. 向开发者截图开通服务器访问权限
+4. 设置好AutoDark，测试是否正常
 
 ## 设置过程
 1. 设置邮箱及通知，悬浮窗等权限开启
@@ -24,8 +24,6 @@
 ## 下载地址
 1. AutoDark：https://autodark.download.wakamda.cyou/AutoDark/
 2. AutoLite：https://autodark.download.wakamda.cyou/AutoLite/
-3. 设置教程： https://autodark.download.wakamda.cyou/jiaocheng/1.mp4
-4. 打卡教程： https://autodark.download.wakamda.cyou/jiaocheng/2.mp4
 
 ## 联系开发者
 qq：848340384
