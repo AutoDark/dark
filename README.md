@@ -22,8 +22,7 @@
 测试时长：保持电量的情况下连续3星期无异常
 
 ## 下载地址
-1. AutoDark：https://autodark.download.wakamda.cyou/AutoDark/
-2. AutoLite：https://autodark.download.wakamda.cyou/AutoLite/
+请联系开发者
 
 ## 联系开发者
 qq：848340384
