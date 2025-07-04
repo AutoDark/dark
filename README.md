@@ -1,5 +1,5 @@
 # AutoDark
-本项目采用一部手机控制另一部手机打卡的方式，需要一部备用手机置于公司工位，可实现远程实时打卡。
+本项目采用一部手机控制另一部手机的方式，需要一部备用手机置于公司工位，可实现远程实时daka。
 
 ## 版本信息
 1. AutoDark![版本](https://img.shields.io/badge/version-v2.2-blue)
@@ -28,4 +28,4 @@
 qq：848340384
 
 ## 致谢
-本文件基于 [DailyTask](https://github.com/AndroidCoderPeng/DailyTask) 修改，原始版权归原作者所有。
+本项目基于 [DailyTask](https://github.com/AndroidCoderPeng/DailyTask) 修改，原始版权归原作者所有。
